@@ -1,2 +1,3 @@
 writing first line in text1.txt
 writing second line in text1.txt
+writing third line in text1.txt
